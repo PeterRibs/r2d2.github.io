@@ -1,3 +1,3 @@
 # r2d2.github.io
 
-https://github.com/PeterRibs/r2d2.github.io
+https://peterribs.github.io/r2d2.github.io/
